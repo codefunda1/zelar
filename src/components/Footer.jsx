@@ -85,7 +85,7 @@ const Footer = () => {
     <ContactSection>                
         <div className="container">
             <ContactInfo className="row">
-                <motion.h1 className='text-white pb-2 text-center' whileHover="whileHover" whileTap='whileTap'><u>Reach Out To Us</u></motion.h1>
+                <motion.h1 className='text-white pb-2 text-center' whileHover="whileHover" whileTap='whileTap'><u>Zelar Groups LTD</u></motion.h1>
                 <div className="col-md-5 col-sm-12">
                     <ContactList>
                          {/* <motion.img data-aos="fade-up" src={ZelarLogo} alt='logo' height={100} whileHover={{ scale: 1.3 }} initial={{ scale:  1.5}}>

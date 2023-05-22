@@ -4,9 +4,9 @@ function Terms() {
   return (
     <div>
         <br/><br/><br/><br/><br/>
-        <h1 className='text-center'>TERMS AND CONDITIONS manohar</h1>
+        <h1 className='text-center'>TERMS AND CONDITIONS </h1>
 <p>Last updated: 2023-05-18</p><br/>
-<h2>1. Introduction manohar</h2>
+<h2>1. Introduction </h2>
 <p>Welcome to Zelar Groups LTD (“Company”, “we”, “our”, “us”)!
 These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at https://www.zelargroup.co.uk/ (together or individually “Service”) operated by Zelar Groups LTD.
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages.

@@ -61,7 +61,7 @@ export default function Team() {
               src={Team2}
               alt="Amin"
             />
-            <h2>manu</h2>
+            <h2>liridora</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -77,7 +77,7 @@ export default function Team() {
               src={Team3}
               alt="sergei"
             />{" "}
-            <h2>manu</h2>
+            <h2>mark</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -93,7 +93,7 @@ export default function Team() {
               src={Team4}
               alt="edward"
             />{" "}
-            <h2>manu</h2>
+            <h2>Hufsa Khan</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -109,7 +109,7 @@ export default function Team() {
               src={Team5}
               alt="oliver"
             />{" "}
-            <h2>manu</h2>
+            <h2>Christofer</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -125,7 +125,7 @@ export default function Team() {
               src={Team6}
               alt="lovska"
             />{" "}
-            <h2>manu</h2>
+            <h2>James</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -141,7 +141,7 @@ export default function Team() {
               src={Team7}
               alt="abhishek"
             />{" "}
-            <h2>manu</h2>
+            <h2>Stella Josaf</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -157,7 +157,7 @@ export default function Team() {
               src={Team8}
               alt="morris"
             />{" "}
-            <h2>manu</h2>
+            <h2>valoria</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi,
               qui ab eos magnam vero dolor quasi hic expedita commodi
@@ -167,7 +167,6 @@ export default function Team() {
           </div>
         </ItemsCarousel>
       </div>
-       
     </div>
   );
 }
