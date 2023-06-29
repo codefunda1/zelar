@@ -32,14 +32,14 @@ class Jobs extends Component {
     criminal_conviction_2: "",
     criminal_conviction_text: "",
     // references
-    references_name:"",
-    references_position:"",
-    references_fromdate:"",
-    references_todate:"",
-    references_duties:"",
-    references_contact_name:"",
-    references_contact_number:"",
-    references_mail:"",
+    references_name: "",
+    references_position: "",
+    references_fromdate: "",
+    references_todate: "",
+    references_duties: "",
+    references_contact_name: "",
+    references_contact_number: "",
+    references_mail: "",
 
     // social-media-policy
     // DSP
@@ -49,7 +49,7 @@ class Jobs extends Component {
     // nondiscloser
     // stop-search
     // medical-fitness
-    medical_fitness:"",
+    medical_fitness: "",
     // code-of-conduct-policy
     // Disclaimer
 
